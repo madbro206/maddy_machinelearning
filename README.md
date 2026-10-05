@@ -1,7 +1,7 @@
 # Machine learning coursework (UW CSE 446/546)
 
-My homework for **CSE 446/546: Machine Learning** at the University of Washington, Autumn
-2024 (graduate section). Each `hw` folder has my code for that assignment's programming
+My homework for **[CSE 446/546: Machine Learning](https://courses.cs.washington.edu/courses/cse446/24au/)**
+at the University of Washington, Autumn 2024 (graduate section). Each `hw` folder has my code for that assignment's programming
 problems, and the PDFs are my written solutions.
 
 The problem statements, starter code and tests came from the course staff. The
